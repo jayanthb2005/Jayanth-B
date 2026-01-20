@@ -134,7 +134,5 @@ git push origin feature-branch
 ```
 ### **Open a Pull Request**
 ---
-## **License** 📜
-This project is licensed under the MIT License.
 
-💡 Developed with ❤️ by [Mohammad Hashim](https://github.com/mohammadhashim135/Garbage-Classifier.git)
+💡 Developed with ❤️ by [Jayanth B](https://github.com/jayanthb2005/Jayanth-B-GarboVision-AI-
